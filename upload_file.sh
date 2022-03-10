@@ -1,0 +1,1 @@
+azcopy cp "/Azure-mini-project/data/walmart_stock.csv" "https://[storage name].blob.core.windows.net/[container name]/data/?[sas token]"
